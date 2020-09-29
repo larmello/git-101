@@ -1,6 +1,7 @@
 body {
 	margin: 0;
 	font-family: Helvetica;
+	background: red;
 }
 
 #logo {
@@ -9,7 +10,8 @@ body {
 }
 
 h1 { 
-font-weight: bolder;
+	font-weight: bolder;
+	color: white;
 }
 
 #container{
