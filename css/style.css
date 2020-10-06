@@ -18,6 +18,19 @@ h1 {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	height: 100vh;
+	height: 60vh;
 	flex-direction: column;
 }
+
+.teste {
+	align-items: center;
+}
+
+.teste h1 {
+	font-weight: 400;
+	color: black;
+	align-items: center;
+	text-align: center;
+	text-transform: capitalize;
+	text-shadow: 6px 4px 4px white;
+}	
